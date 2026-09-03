@@ -1,0 +1,61 @@
+1:"$Sreact.fragment"
+3:I[7121,[],""]
+4:I[4581,[],""]
+6:I[484,[],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[484,[],"ViewportBoundary"]
+c:I[484,[],"MetadataBoundary"]
+e:I[7123,[],"default",1]
+:HL["/zichuan-notes/_next/static/css/c4df1056971c7faa.css","style"]
+0:{"P":null,"c":["","posts","blog00321",""],"q":"","i":false,"f":[[["",{"children":["posts",{"children":[["id","blog00321","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/zichuan-notes/_next/static/css/c4df1056971c7faa.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$@9"]},null,false,"$@9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],null]}],false]],"m":"$undefined","G":["$e",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"h0zqcQwEMXiKpoWRitkJL"}
+f:[]
+9:"$Wf"
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+10:I[2737,["500","static/chunks/500-c99b8dfd3de17c86.js","986","static/chunks/986-1d864cfdc9e2dc59.js","177","static/chunks/app/layout-8bd785fbf8f793e7.js"],"ThemeProvider"]
+11:I[8500,["500","static/chunks/500-c99b8dfd3de17c86.js","974","static/chunks/app/page-f0468e144ab6f929.js"],""]
+12:I[6609,["500","static/chunks/500-c99b8dfd3de17c86.js","986","static/chunks/986-1d864cfdc9e2dc59.js","177","static/chunks/app/layout-8bd785fbf8f793e7.js"],"Toaster"]
+:HL["/zichuan-notes/brand/logo.png","image"]
+2:["$","html",null,{"lang":"zh-CN","data-site-style":"bear","data-site-font":"kinghwa","suppressHydrationWarning":true,"className":"h-full antialiased","children":["$","body",null,{"suppressHydrationWarning":true,"className":"min-h-full","children":["$","$L10",null,{"children":[["$","div",null,{"className":"zh-shell flex min-h-screen flex-col","children":[["$","header",null,{"className":"zh-header","children":["$","div",null,{"className":"zh-header-inner","children":["$","$L11",null,{"href":"/","className":"zh-brand","children":[["$","img",null,{"src":"/zichuan-notes/brand/logo.png","alt":"","width":22,"height":22,"className":"h-[1.25rem] w-auto"}],["$","span",null,{"children":"子川投资笔记"}]]}]}]}],["$","main",null,{"className":"w-full flex-1","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}],["$","$L12",null,{"richColors":true,"position":"top-right"}]]}]}]}]
+13:I[6869,[],"IconMark"]
+8:null
+d:[["$","title","0",{"children":"暴跌时的心理建设，给偶遇的梁先生"}],["$","meta","1",{"name":"description","content":"子川投资笔记\n投资｜哲学｜文化｜科技｜艺术"}],["$","link","2",{"rel":"canonical","href":"https://lrh683.github.io/zichuan-notes/posts/blog00321/"}],["$","meta","3",{"property":"og:title","content":"暴跌时的心理建设，给偶遇的梁先生"}],["$","meta","4",{"property":"og:description","content":"子川投资笔记\n投资｜哲学｜文化｜科技｜艺术"}],["$","meta","5",{"property":"og:url","content":"https://lrh683.github.io/zichuan-notes/posts/blog00321/"}],["$","meta","6",{"property":"og:site_name","content":"子川投资笔记"}],["$","meta","7",{"property":"og:locale","content":"zh_CN"}],["$","meta","8",{"property":"og:image","content":"https://lrh683.github.io/zichuan-notes/uploads/wechat/45f30f166cdb/cover_sq_e81f374508.jpg"}],["$","meta","9",{"property":"og:image:alt","content":"暴跌时的心理建设，给偶遇的梁先生"}],["$","meta","10",{"property":"og:type","content":"article"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"暴跌时的心理建设，给偶遇的梁先生"}],["$","meta","13",{"name":"twitter:description","content":"子川投资笔记\n投资｜哲学｜文化｜科技｜艺术"}],["$","meta","14",{"name":"twitter:image","content":"https://lrh683.github.io/zichuan-notes/uploads/wechat/45f30f166cdb/cover_sq_e81f374508.jpg"}],["$","link","15",{"rel":"icon","href":"/zichuan-notes/favicon.ico?603d046c9a6fdfbb","type":"image/x-icon","sizes":"16x16"}],["$","$L13","16",{}]]
+14:I[4908,["880","static/chunks/app/posts/%5Bid%5D/page-e8d7b7bd85373929.js"],"ArticleContent"]
+16:I[2836,["880","static/chunks/app/posts/%5Bid%5D/page-e8d7b7bd85373929.js"],"PostDock"]
+15:T89f,今天有位朋友说定投了4个月，顶不住了。我说定投，至少2年起。
+
+下午偶遇旧识梁先生，也聊起近日的波动。
+
+推荐需要信仰充值的朋友再看看这篇文。<a href="https://mp.weixin.qq.com/s?__biz=MzI3OTA2MDA3NA==&amp;mid=2247486395&amp;idx=1&amp;sn=6f573ab9255bb3b29dece961f95699e2&amp;scene=142#wechat_redirect" class="normal_text_link mp_article_text_link" target="_blank" data-itemshowtype="">价值投机-写在大饼ATH时的一个小注脚</a>
+
+这篇文章去年十月写的，一晃是4个月前了，恍如隔世。内容正好适合接下来很长一段时间看。
+
+一月头开始，两架定投机器发出启动信号。
+
+一路向南，一路快乐而痛苦着。
+
+不要预测，
+
+少加杠杆，
+
+好好吃饭，
+
+好好睡觉。
+
+关于心理建设，以下是2026年2月2日的日记截选，或有帮助
+
+## 古川Lawrence
+20260202
+
+虽然已经经过很多轮牛熊，但这一轮，是大资产级别重生的崭新之旅。每一步都在意料之内，但仍然常常出现些小意外，也有很多心理建设的课要补。如何调配时间精力，如何调整悲喜心态抵御外间。
+
+过去5年，熊转牛的过程是最为轻松的。现金流最充沛，资产值也日日翻高，有大把时间可以用来学习研究（不是时间多，是心态放松的时间多）。
+
+到前年末，去年整年牛市冲顶，就需要比较紧迫的布局再分配事宜。接下来要去哪个市场，哪个标的，什么策略。都要有个衔接。这时候比较紧张，但因为是收获的季节，似也还好。
+
+到确定性熊市来临之后，开始面临计划转决策执行、现金流吃紧、资产大幅缩水（长期持有的缩水，以及抄底/定投过程的不断亏损。）
+
+比较有趣的是在不断缩小的总资产中，细分出来现金流收益和策略收益，有种庖丁解牛的快乐。总之，这是必然遇到的苦尽甘来中苦的阶段，好在收获喜乐的余温尚存。
+
+只做记录，毕竟这些比哲学研究简单多了，也无趣多了。
+
+<a class="wx_topic_link" topic-id="mlapr8bb-45jknn" data-topic="1" style="color: rgb(87, 107, 149) !important;">#暴跌</a>5:[["$","article",null,{"className":"zh-main","children":[["$","h1",null,{"className":"zh-article-title","children":"暴跌时的心理建设，给偶遇的梁先生"}],["$","div",null,{"className":"zh-article-head","children":[["$","time",null,{"className":"zh-date","dateTime":"2026-02-06T10:12:04Z","children":"2026-02-06"}],null]}],["$","section",null,{"className":"wechat-imported","children":["$","$L14",null,{"html":"$15","articleId":321}]}],["$","p",null,{"className":"zh-end","children":"～End～"}]]}],["$","$L16",null,{"slug":"blog00321"}]]
