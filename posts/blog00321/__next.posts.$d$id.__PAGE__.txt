@@ -1,9 +1,7 @@
 1:"$Sreact.fragment"
-2:I[4908,["880","static/chunks/app/posts/%5Bid%5D/page-e8d7b7bd85373929.js"],"ArticleContent"]
-4:I[2836,["880","static/chunks/app/posts/%5Bid%5D/page-e8d7b7bd85373929.js"],"PostDock"]
-5:I[484,[],"OutletBoundary"]
-6:"$Sreact.suspense"
-3:T89f,今天有位朋友说定投了4个月，顶不住了。我说定投，至少2年起。
+3:I[484,[],"OutletBoundary"]
+4:"$Sreact.suspense"
+2:T89f,今天有位朋友说定投了4个月，顶不住了。我说定投，至少2年起。
 
 下午偶遇旧识梁先生，也聊起近日的波动。
 
@@ -40,5 +38,5 @@
 
 只做记录，毕竟这些比哲学研究简单多了，也无趣多了。
 
-<a class="wx_topic_link" topic-id="mlapr8bb-45jknn" data-topic="1" style="color: rgb(87, 107, 149) !important;">#暴跌</a>0:{"rsc":["$","$1","c",{"children":[[["$","article",null,{"className":"zh-main","children":[["$","h1",null,{"className":"zh-article-title","children":"暴跌时的心理建设，给偶遇的梁先生"}],["$","div",null,{"className":"zh-article-head","children":[["$","time",null,{"className":"zh-date","dateTime":"2026-02-06T10:12:04Z","children":"2026-02-06"}],null]}],["$","section",null,{"className":"wechat-imported","children":["$","$L2",null,{"html":"$3","articleId":321}]}],["$","p",null,{"className":"zh-end","children":"～End～"}]]}],["$","$L4",null,{"slug":"blog00321"}]],null,["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"mUbAZe0zAWLOdA9nnX-b4"}
-7:null
+<a class="wx_topic_link" topic-id="mlapr8bb-45jknn" data-topic="1" style="color: rgb(87, 107, 149) !important;">#暴跌</a>0:{"rsc":["$","$1","c",{"children":[[["$","article",null,{"className":"zh-main","children":[["$","h1",null,{"className":"zh-article-title","children":"暴跌时的心理建设，给偶遇的梁先生"}],["$","div",null,{"className":"zh-article-head","children":[["$","time",null,{"className":"zh-date","dateTime":"2026-02-06T10:12:04Z","children":"2026-02-06"}],null]}],["$","section",null,{"className":"wechat-imported","children":["$","div",null,{"className":"article-body max-w-none","dangerouslySetInnerHTML":{"__html":"$2"}}]}],["$","p",null,{"className":"zh-end","children":"～End～"}]]}],["$","aside",null,{"className":"bear-art-dock bear-post-dock","aria-label":"post nav","children":["$","div",null,{"className":"bear-art-dock-icons","children":[["$","a",null,{"href":"#","className":"bear-art-dock-sq","aria-label":"back to top","title":"back to top","children":["$","svg",null,{"viewBox":"0 0 24 24","aria-hidden":"true","className":"bear-art-dock-icon","children":[["$","circle",null,{"cx":"12","cy":"12","r":"8.25","fill":"none","stroke":"currentColor","strokeWidth":"1.5"}],["$","path",null,{"d":"M8.25 8.1h7.5","fill":"none","stroke":"currentColor","strokeWidth":"1.5","strokeLinecap":"round"}],["$","path",null,{"d":"M8.4 14.35L12 10.5l3.6 3.85","fill":"none","stroke":"currentColor","strokeWidth":"1.5","strokeLinecap":"round","strokeLinejoin":"round"}]]}]}],["$","a",null,{"href":"/theta-blog/?focus=blog00321","className":"bear-art-dock-sq","aria-label":"back to home","title":"back to home","children":["$","svg",null,{"viewBox":"0 0 24 24","aria-hidden":"true","className":"bear-art-dock-icon","children":[["$","path",null,{"d":"M4.5 11.2L12 4.8l7.5 6.4","fill":"none","stroke":"currentColor","strokeWidth":"1.5","strokeLinecap":"round","strokeLinejoin":"round"}],["$","path",null,{"d":"M7 10.8V19h10v-8.2","fill":"none","stroke":"currentColor","strokeWidth":"1.5","strokeLinecap":"round","strokeLinejoin":"round"}],["$","path",null,{"d":"M10 19v-4.2h4V19","fill":"none","stroke":"currentColor","strokeWidth":"1.5","strokeLinejoin":"round"}]]}]}]]}]}]],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"--2tYEFlz9irYZeSQ5O0D"}
+5:null
