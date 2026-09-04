@@ -1,3 +1,3 @@
-:HL["/pureTheta/_next/static/css/e0f8272ae1ec20da.css","style"]
+:HL["/pureTheta/_next/static/css/fcf5166fe1b7c899.css","style"]
 :HL["/pureTheta/brand/logo.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"posts","param":null,"prefetchHints":0,"slots":{"children":{"name":"id","param":{"type":"d","key":"blog00215","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"iWbujTOXQB8PpJEbPa-ZW"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"posts","param":null,"prefetchHints":0,"slots":{"children":{"name":"id","param":{"type":"d","key":"blog00215","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"oEPZRLGtPzij2VWH0k7XR"}
