@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://lrh683.github.io/pureTheta/sitemap.xml
+Sitemap: https://puretheta.net/sitemap.xml
