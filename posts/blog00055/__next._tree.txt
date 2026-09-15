@@ -1,3 +1,3 @@
 :HL["/_next/static/css/2eaf33015ac31838.css","style"]
 :HL["/brand/logo.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"posts","param":null,"prefetchHints":0,"slots":{"children":{"name":"id","param":{"type":"d","key":"blog00055","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"87qpAYaRv2m_6FBMmBDdE"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"posts","param":null,"prefetchHints":0,"slots":{"children":{"name":"id","param":{"type":"d","key":"blog00055","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"SQL3yrkkFp126Rd2dwf0L"}
