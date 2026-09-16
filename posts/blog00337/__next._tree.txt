@@ -1,5 +1,5 @@
-:HL["/_next/static/css/f67ff06719f2c0dd.css","style"]
+:HL["/_next/static/css/2fe90bfa1719d584.css","style"]
 :HL["/brand/logo.png","image"]
 :HL["/static/wechat-icon.png","image"]
 :HL["/static/wechat-qr.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"posts","param":null,"prefetchHints":0,"slots":{"children":{"name":"id","param":{"type":"d","key":"blog00337","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"0zjtoPAHpFf0i5FsupY3p"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"posts","param":null,"prefetchHints":0,"slots":{"children":{"name":"id","param":{"type":"d","key":"blog00337","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"XPRgNCPBuBd6RgVcxPwHh"}
