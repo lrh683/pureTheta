@@ -1,4 +1,4 @@
-:HL["/_next/static/css/42fd8bb4ff283794.css","style"]
+:HL["/_next/static/css/e9b887ae9797c64c.css","style"]
 :HL["/brand/logo.png","image"]
 :HL["/static/wechat-card.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"posts","param":null,"prefetchHints":0,"slots":{"children":{"name":"id","param":{"type":"d","key":"blog00292","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"Dq5oF_9j4GgepLsTK691k"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"posts","param":null,"prefetchHints":0,"slots":{"children":{"name":"id","param":{"type":"d","key":"blog00292","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"UUcqQjRuFVMy_2oLz6q6O"}
