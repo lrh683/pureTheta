@@ -1,4 +1,11 @@
 User-agent: *
 Allow: /
+Disallow: /categories/
+Disallow: /tags/
+Disallow: /archives/
+Disallow: /links/
+Disallow: /about/
+Disallow: /search/
+Disallow: /admin/
 
 Sitemap: https://puretheta.net/sitemap.xml
